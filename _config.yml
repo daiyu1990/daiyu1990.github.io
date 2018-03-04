@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Site settings
 title: BY Blog
 SEOTitle: 柏荧的博客 | BY Blog
@@ -112,3 +113,6 @@ friends: [
         href: "https://developer.apple.com/"
     }
 ]
+=======
+theme: jekyll-theme-cayman
+>>>>>>> origin/master
